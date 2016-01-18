@@ -1,0 +1,10 @@
+H:\yuanyw\MDSys\DQHP\TrendAnalyze\obj\Release\ResolveAssemblyReference.cache
+H:\yuanyw\MDSys\DQHP\TrendAnalyze\obj\Release\GenerateResource.read.1.tlog
+H:\yuanyw\MDSys\DQHP\TrendAnalyze\obj\Release\GenerateResource.write.1.tlog
+H:\yuanyw\MDSys\DQHP\DQHP\bin\Debug\TrendAnalyze.dll
+H:\yuanyw\MDSys\DQHP\DQHP\bin\Debug\TrendAnalyze.pdb
+H:\yuanyw\MDSys\DQHP\TrendAnalyze\obj\Release\TrendAnalyze.frmGDP.resources
+H:\yuanyw\MDSys\DQHP\TrendAnalyze\obj\Release\TrendAnalyze.frmPOP.resources
+H:\yuanyw\MDSys\DQHP\TrendAnalyze\obj\Release\TrendAnalyze.frmTable.resources
+H:\yuanyw\MDSys\DQHP\TrendAnalyze\obj\Release\TrendAnalyze.dll
+H:\yuanyw\MDSys\DQHP\TrendAnalyze\obj\Release\TrendAnalyze.pdb
