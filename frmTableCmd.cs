@@ -35,7 +35,7 @@ namespace ClimateTrendAnalyze
 
         public string Category
         {
-            get { return "TrendAnalyzeMenu"; }
+            get { return "ClimateTrendAnalyzeMenu"; }
         }
 
         public bool Checked

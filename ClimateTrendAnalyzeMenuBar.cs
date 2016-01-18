@@ -15,7 +15,7 @@ namespace ClimateTrendAnalyze
 
         public string Name
         {
-            get { return "TrendAnalyzeMenu"; }
+            get { return "ClimateTrendAnalyzeMenu"; }
         }
 
         public long ItemCount
@@ -28,15 +28,15 @@ namespace ClimateTrendAnalyze
             switch (pos)
             {
                 case 0:
-                    itemDef.ID = "TrendAnalyze.frmTEMPCmd";
+                    itemDef.ID = "ClimateTrendAnalyze.frmTEMPCmd";
                     itemDef.Group = false;
                     break;
                 case 1:
-                    itemDef.ID = "TrendAnalyze.frmPRECmd";
+                    itemDef.ID = "ClimateTrendAnalyze.frmPRECmd";
                     itemDef.Group = false;
                     break;
                 //case 2:
-                //    itemDef.ID = "TrendAnalyze.frmTableCmd";
+                //    itemDef.ID = "ClimateTrendAnalyze.frmTableCmd";
                 //    itemDef.Group = false;
                 //    break;
                 default:
