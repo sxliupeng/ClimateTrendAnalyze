@@ -201,7 +201,7 @@
             this.Controls.Add(this.tabControl1);
             this.DoubleBuffered = true;
             this.Name = "frmPRE";
-            this.Text = "人口增长趋势";
+            this.Text = "降水变化趋势分析";
             this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.Form1_FormClosed);
             this.Load += new System.EventHandler(this.Form1_Load);
             this.tabControl1.ResumeLayout(false);

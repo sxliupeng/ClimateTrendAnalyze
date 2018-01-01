@@ -10,7 +10,7 @@ namespace ClimateTrendAnalyze
         #region IMenuDef 成员
         public string Caption
         {
-            get { return "趋势预测"; }
+            get { return "气候指标变化趋势分析"; }
         }
 
         public string Name

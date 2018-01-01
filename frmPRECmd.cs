@@ -30,7 +30,7 @@ namespace ClimateTrendAnalyze
 
         public string Caption
         {
-            get { return "人口增长趋势"; }
+            get { return "降水变化趋势"; }
         }
 
         public string Category
@@ -60,7 +60,7 @@ namespace ClimateTrendAnalyze
 
         public string Message
         {
-            get { return "人口增长趋势"; }
+            get { return "降水变化趋势"; }
         }
 
         public string Name
@@ -87,7 +87,7 @@ namespace ClimateTrendAnalyze
 
         public string Tooltip
         {
-            get { return "人口增长趋势"; }
+            get { return "降水变化趋势"; }
         }
         #endregion
     }

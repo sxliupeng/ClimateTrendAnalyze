@@ -58,7 +58,7 @@ namespace ClimateTrendAnalyze
             //sConn += Application.StartupPath;
             //sConn += ConfigurationSettings.AppSettings["DataSource"];
             //sConn += ConfigurationSettings.AppSettings["Pwd"];
-            sConn = @"Provider = Microsoft.Jet.OLEDB.4.0;Data Source =" + Application.StartupPath + @"\Data\dqhp.mdb;Jet OLEDB:Database Password=dqhpdata";
+            sConn = @"Provider = Microsoft.Jet.OLEDB.4.0;Data Source =" + Application.StartupPath + @"\Data\IndustrialDV.mdb;Jet OLEDB:Database Password=";
             if (pConn == null)
                 pConn = new OleDbConnection(sConn);
             if (pConn.State == ConnectionState.Closed)
@@ -82,7 +82,7 @@ namespace ClimateTrendAnalyze
             myPane.CurveList.Clear();
             myPane.GraphObjList.Clear();
             // Set up the title and axis labels
-            myPane.Title.Text = "气温趋势模拟";
+            myPane.Title.Text = "温度变化趋势分析";
             myPane.XAxis.Title.Text = "年份";
             myPane.YAxis.Title.Text = "温度值";
 

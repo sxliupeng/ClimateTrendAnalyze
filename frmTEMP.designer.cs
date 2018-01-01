@@ -201,7 +201,7 @@
             this.Controls.Add(this.tabControl1);
             this.DoubleBuffered = true;
             this.Name = "frmTEMP";
-            this.Text = "气温趋势模拟";
+            this.Text = "温度趋势模拟";
             this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.Form1_FormClosed);
             this.Load += new System.EventHandler(this.Form1_Load);
             this.tabControl1.ResumeLayout(false);

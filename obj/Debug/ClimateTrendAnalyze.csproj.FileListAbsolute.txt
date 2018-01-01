@@ -1,8 +1,8 @@
 D:\77211356\GitHub\ClimateTrendAnalyze\bin\Debug\ClimateTrendAnalyze.dll
 D:\77211356\GitHub\ClimateTrendAnalyze\bin\Debug\ClimateTrendAnalyze.pdb
 D:\77211356\GitHub\ClimateTrendAnalyze\bin\Debug\MyPluginEngine.dll
+D:\77211356\GitHub\ClimateTrendAnalyze\bin\Debug\log4net.dll
 D:\77211356\GitHub\ClimateTrendAnalyze\bin\Debug\MyPluginEngine.pdb
-D:\77211356\GitHub\ClimateTrendAnalyze\obj\Debug\ClimateTrendAnalyze.csprojResolveAssemblyReference.cache
 D:\77211356\GitHub\ClimateTrendAnalyze\obj\Debug\ClimateTrendAnalyze.frmTEMP.resources
 D:\77211356\GitHub\ClimateTrendAnalyze\obj\Debug\ClimateTrendAnalyze.frmPRE.resources
 D:\77211356\GitHub\ClimateTrendAnalyze\obj\Debug\ClimateTrendAnalyze.frmTable.resources

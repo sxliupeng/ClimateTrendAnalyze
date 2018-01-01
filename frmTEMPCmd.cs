@@ -30,7 +30,7 @@ namespace ClimateTrendAnalyze
 
         public string Caption
         {
-            get { return "GDP增长趋势"; }
+            get { return "温度变化趋势"; }
         }
 
         public string Category
